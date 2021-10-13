@@ -1,8 +1,14 @@
 public class Names {
     public static void main(String[] args) {
         System.out.println("Group 4");
-        Sabine();
+        Susan();
         Inese();
+        Sabine();
+    }
+    public static void Susan()
+    {
+        System.out.println("My name is Susan");
+
     }
 
     private static void Sabine() {
@@ -13,4 +19,3 @@ public class Names {
         System.out.println("Inese");
     }
 }
-
