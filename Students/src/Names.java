@@ -4,7 +4,13 @@ public class Names {
         Susan();
         Inese();
         Sabine();
+        Evaa();
+
     }
+    public static void Evaa() {
+        System.out.println("my name is Evaa");
+    }
+
     public static void Susan()
     {
         System.out.println("My name is Susan");
