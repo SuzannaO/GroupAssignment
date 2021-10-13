@@ -5,7 +5,12 @@ public class Names {
         Inese();
         Sabine();
         Evaa();
+        Iveta();
 
+    }
+    public static void Iveta() {
+
+        System.out.println("My names is Iveta");
     }
     public static void Evaa() {
         System.out.println("my name is Evaa");
